@@ -1,0 +1,40 @@
+.btnMenu {
+    margin: 10px;
+}
+
+.btn-menu-item {
+    margin-left: 3rem;
+    width: 7rem;
+}
+
+#monitor {
+    background-color: #003cff;
+    resize: none;
+    width: 350px;
+    height: 350px;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    
+}
+
+#numericPad {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.user-icon {
+    color: blue;
+    font-size: 5rem;
+    text-align: center;
+}
+
+.cc-icon {
+    color: black;
+    font-size: 5rem;
+    text-align: center;
+}
+.card-center {
+    margin: auto;
+    display: block;
+}
